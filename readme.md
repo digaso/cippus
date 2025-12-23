@@ -16,7 +16,6 @@ The platform connects visitors to artifacts through a system of detailed tabs an
 ## Project Concept
 
 - Name: Inspired by the Roman "Cippus", a traditional boundary stone or grave marker, symbolizing a permanent mark in history.
-- Influences: The platform draws from Latin, Arabic, and Greek roots to reflect the multicultural layers of Portuguese identity.
 - Mission: To preserve historical memory through digital interaction and to encourage tourism in lesser-known cultural sites.
 
 ## Future Development
