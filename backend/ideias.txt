@@ -1,0 +1,20 @@
+features:
+- User authentication and authorization
+- User profile management
+- Location-based services
+- Locations' artefacts
+- User favourites management
+- Badges system
+- "Passport" feature for tracking visited locations
+- RESTful API design
+
+
+rotas:
+- Login/Register
+- User, get all, get by id, update, delete
+- User/favourites, add, delete
+- User/me, get
+- User/me/badges
+- User/me/passport
+- Locations, nearby(lat, long, radius), add, update, delete
+- Locations/artefacts, add, update, delete
